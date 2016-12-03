@@ -1,3 +1,9 @@
+/**
+ * @author Erick Lopez & Carlos Boror
+ * @author UDEO Montesquieu
+ * @version 1.0.0
+ * @since Noviembre 2016
+ */
 
 public class NodoArbol
 {
