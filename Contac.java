@@ -1,8 +1,8 @@
 /**
- * @author Erick Lopez
+ * @author Erick Lopez & Carlos Boror
  * @author UDEO Montesquieu
  * @version 1.0.0
- * @since Octubre 2016
+ * @since Noviembre 2016
  */
 
 import java.io.BufferedReader;
