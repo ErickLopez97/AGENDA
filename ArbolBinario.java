@@ -1,10 +1,10 @@
-
 /**
- * Write a description of class ArbolBinario here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author Erick Lopez & Carlos Boror
+ * @author UDEO Montesquieu
+ * @version 1.0.0
+ * @since Noviembre 2016
  */
+
 public class ArbolBinario
 {
     NodoArbol raiz;
